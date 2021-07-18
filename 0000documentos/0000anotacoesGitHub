@@ -1,0 +1,33 @@
+Resumo do curso de Git e GitHub:
+
+O Git gera o versionamento de arquivos de um repositorio
+localmente.
+O GitHub guarda uma copia do versionamento local na nuvem
+compartilhando o repositorio com todos os usuarios do GitHub.
+O GitHub descktop permite realizar as operações de:
+    Fetch origin - atualiza o repositorio local com a ultima 
+    versionamento da rede. Isso permmite você trabalhar 
+    no seu repositorio em diferentes máquinas.
+    Commit - Permite voce enviar novas versoes com o progresso
+    de desenvolvimento do repositorio local para a nuvem.
+
+Processos:
+
+Criar um repositorio:
+    - pastas que organizam o desenvolvimento de algo
+        - arquivos usados no desenvolvimento
+        - codigo
+        - documentacao
+        - etc
+    - Pode-se criar um repositorio publico ou privado
+        - para contas gratis, os repositorios privados estao
+        limitados a tres.
+    - Pode-se criar um repositorio ligado a uma empresa.
+        - [?] - checar se e so neste caso que que se pode
+        montar equipes de desenvolvimento.
+        
+
+Clonar um repositorio publico de outra pessoa:
+    - Cria uma copia de um repositorio de alguem apenas para
+    voce poder consultar na sua propria maquina. Nos nao 
+    podemos atualizar o respositorio de uma outra pessoa.
