@@ -37,4 +37,6 @@ Clonar um repositorio publico de outra pessoa:
     publicos.
     - as issues sao foruns de perguntas e respostas sobre algum 
     questionamento que pode ser fechada pelo dono do repositorio
-    
+
+- Pode-se se usar markdown no GitHub
+
