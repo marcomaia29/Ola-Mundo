@@ -37,6 +37,68 @@ Clonar um repositorio publico de outra pessoa:
     publicos.
     - as issues sao foruns de perguntas e respostas sobre algum 
     questionamento que pode ser fechada pelo dono do repositorio
+    - Opção de pinar as issues que devem ter destaque.
 
 - Pode-se se usar markdown no GitHub
+    Normalmente usado, nas readmes, issues e nas pull requests
+    Exemplos de markdown:
+        ** ** ou __ __ - negrito
+        * * ou _ _ - Itálico
+        ~~ ~~
 
+Vamos ver como fica!
+Negrito: **Negrito**
+Itálico: *Itálico*
+Riscado: ~~Riscado~~
+Misturado: **_Misturado_**
+# Título 1 com traço embaixo
+---
+## Título 2
+### Título 3
+#### Título 4
+
+Lista numerada
+
+1. Primeiro item
+1. Segundo item
+   1. Terceiro item (3 espaços na indentação)
+   1. Subittem (3 espaços na indentação)
+
+Lista demarcada (* ou -) :
+
+* Teste
+* Teste
+   * Teste
+   * Teste
+* Teste
+
+Lista de tarefas:
+
+- [ ] Primeira tarefa
+- [ ] Segunda tarefa
+   - [x] Outra tarefa
+   - [ ] Uma outra tarefa
+
+![lulaMolusco](https://user-images.githubusercontent.com/57294796/126084505-f3bdd3a2-6bff-41b8-afe9-3f6ac3051446.png)
+[Meu GitHub](https://github.com/marcomaia29)
+
+Tabela:
+
+Num | Nome | Nota
+--- | --- | ---
+1 | Marco | 9
+2 | Tico | 10
+
+Exemplo para mostrar código, 
+entre uma crase - para linha
+entre 3 crases - para blocos
+
+```  
+let a = 1
+let b = 1 * 12
+```
+emojines abrir com dois pontos 🖖 
+
+Marcar pessoas
+
+O @gustavoguanabara deu essa aula.
