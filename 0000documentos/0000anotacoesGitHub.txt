@@ -1,3 +1,9 @@
+Historia GitHub
+
+GIT - é um VCS - Controle de versionamento de software (mas pode ser usado para outras coisas)
+
+
+
 Resumo do curso de Git e GitHub:
 
 O Git gera o versionamento de arquivos de um repositorio
